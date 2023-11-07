@@ -1,8 +1,11 @@
-/* Code from Body */
+/* Code from bg */
 
-.background{
-    font-family: 'Roboto', sans-serif;
+#bgcolor{
+    background: hsl(0, 0%, 0%)00;
 }
 
-/* Code from home */
+/* Code from main */
 
+.text-font{
+    font-family: 'Roboto', sans-serif;
+}
