@@ -2,4 +2,4 @@
 
 ### Learning Java, Module 2.
 
-There are my progress on my larning the programming language Java
+My learning of the programming language Java is stored here ☝.
