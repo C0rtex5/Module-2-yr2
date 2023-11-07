@@ -1,11 +1,15 @@
 /* Code from bg */
 
-#bgcolor{
+body{
     background: hsl(0, 0%, 0%)00;
+    font-family: 'Roboto', sans-serif;
 }
 
 /* Code from main */
 
-.text-font{
-    font-family: 'Roboto', sans-serif;
+h1{
+    color: hsl(120, 79%, 58%) 100%, 25%00;
 }
+
+/* Code from main */
+
